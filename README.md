@@ -86,7 +86,4 @@ To analyze an E-commerce dataset using SQL and extract meaningful business insig
 ✔ Advanced SQL (Window Functions & Ranking)  
 ✔ Business-Oriented Thinking  
 
----
-
-## 📁 Repository Structure
 
